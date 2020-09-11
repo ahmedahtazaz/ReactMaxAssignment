@@ -1,0 +1,7 @@
+.User{
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 16px auto;
+    cursor: pointer;
+    font-weight: 600;
+}
